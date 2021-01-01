@@ -1,9 +1,13 @@
 ---
 title: 运动
 date: 2020-12-28 11:45:43.43
+categories:
+- 文章
 tags:
----
+- 文章
 
+description: 运动体操每日5分钟
+--- 
 ```
 居家运动20项 https://www.youtube.com/watch?v=U9df-JRlIxo&ab_channel=VogueParis
 长跑注意：拉伸，脚后跟，用鼻呼吸，看远
